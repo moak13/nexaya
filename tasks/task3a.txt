@@ -1,0 +1,3 @@
+Question: How did you ensure readability of your code?
+
+Answer: I endured readability of my code my employing separation of concern. Both at my widget and business logic level.

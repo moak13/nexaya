@@ -1,0 +1,12 @@
+Question: Did you use any standard architecture, if yes state the architecture,
+and reason for your choice?
+
+Answer: Yes I used a some what standard architecture. The name of the architecture the project uses is called, 
+Stacked architecture.
+This architecture is built on top of a very popularly known architecture called MVVM.
+The reason for choosing Stacked is very simple, it enforces rules to adhere too that makes codebase:
+1. Scalable
+2. Maintainable
+3. Testable
+
+When others are still thinking of how to architect, with stacked, we are way pass that and already delivering.

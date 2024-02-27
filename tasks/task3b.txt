@@ -1,0 +1,5 @@
+Question: How did you ensure scalability of your design?
+
+Answer: I ensured scalability of my design by first employing widget composition. 
+The second thing i did was to make the font size of the text displayed to scale in accordance to the device been rendered on. 
+This made me adjust from the Figma values a bit for eligibility.
